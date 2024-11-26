@@ -12,10 +12,6 @@ A web-based application that suggests movies based on user preferences. This pro
 - **Search Functionality**: Quickly find movies by title or category.
 - **Dynamic Data Integration**: Fetches movie information from a dataset or API.
 
-## Live Demo
-
-(*Provide a link to the deployed project or attach a preview screenshot.*)
-
 ## Installation
 
 1. Clone this repository:
